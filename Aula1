@@ -1,0 +1,28 @@
+nome_usuario = input("Insira seu nome: ")
+print ("Obrigado por responder à pergunta ", nome_usuario)
+
+
+
+print (" Qual bebida você prefere? \n"
+
+"1) Água\n"
+
+"2) Cerveja\n"
+
+"3) Vinho\n"
+
+"4) Leite")
+
+resposta = int(input("Informe o número: "))
+
+print ("Você escolheu a opção ", resposta)
+
+
+ano_nascimento = int(input("Que ano você nasceu? ")
+
+ano_atual = int(2023)
+
+idade = ano_atual - ano_nascimento
+
+print ("Você tem ", idade, "anos")
+
